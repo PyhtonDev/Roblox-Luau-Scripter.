@@ -1,3 +1,5 @@
+--Discord Username- i_m_zeno   Roblox Username- Revenge5354
+
 -- -------------------------------- Services -------------------------------- --
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
